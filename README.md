@@ -25,6 +25,11 @@ Use this program responsibly and at your own risk.
 https://github.com/Muneer44/CryptXOR/assets/117259069/8c31a355-a38f-4f5d-8eb1-486190216efd
 
 ## Usage
+Download `CryptXOR.py` and `Decryptor.py` from this repo  
+Run CryptXOR file from terminal `>python CryptXOR.py`  
+
+---    
+
 ![A-1](https://github.com/Muneer44/CryptXOR/assets/117259069/2c233e61-875f-422b-bbb3-aa9670ec0615)
 -> _Choose the desired operation from the menu: encrypt a custom message, encrypt a file, or use the decryptor program._  
 
