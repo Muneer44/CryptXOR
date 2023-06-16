@@ -4,7 +4,7 @@ This 'CryptXOR - Encryptor-Decryptor' program is designed to encrypt custom mess
 The program utilizes manual XOR operations to perform encryption and decryption, instead of using advanced cryptography encryption algorithm modules, to understand and analyze the weaknesses and mechanism of basic cryptography.   
 
 
-### Disclaimer:
+## Disclaimer
 Misuse of this program, such as using it to encrypt or decrypt files without proper authorization, or using it on important or irreplaceable files, may result in permanent data loss or file corruption. 
 Use this program responsibly and at your own risk.
 
