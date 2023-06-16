@@ -1,6 +1,6 @@
 # CryptXOR 
 
-This 'CryptXOR - Encryptor-Decryptor' program is designed to encrypt custom messages or files, while the Decryptor program enables decryption using the corresponding encryption key. This program utilizes manual XOR operations to perform encryption and decryption, instead of using advanced cryptography encryption algorithm modules, to understand and analyze the weaknesses and mechanisms of basic cryptography.   
+This 'CryptXOR - Encryptor-Decryptor' program is designed to encrypt custom messages or files, while the Decryptor program enables decryption using the corresponding encryption key. This program utilizes manual XOR operations to perform encryption and decryption instead of using advanced cryptography encryption algorithm modules, to understand and analyze the weaknesses and mechanisms of basic cryptography.   
 
 
 ## Disclaimer
@@ -11,7 +11,7 @@ Use this program responsibly and at your own risk.
 ![XOR weak 2](https://github.com/Muneer44/CryptXOR/assets/117259069/e8a61725-e4c1-4bdb-a430-58a6d1b38e3a)  
 
 ![XOR weak](https://github.com/Muneer44/CryptXOR/assets/117259069/a15c8d78-51ef-4b38-89e3-e649e661bc01)
-> Demonstrates XOR key repeatition: Exhibiting predictable pattern when the message is longer than the encryption key.
+> Demonstrates the XOR key repeatition: Exhibiting predictable pattern when the message is longer than the encryption key.
 
 - **Limited key space:** XOR encryption uses relatively short and fixed-length encryption keys, making it vulnerable to brute force attacks.
 - **Key distribution challenges:** Securely distributing and managing encryption keys in XOR encryption can be difficult, especially in large-scale systems or when communicating over untrusted channels.
@@ -62,4 +62,4 @@ Run CryptXOR file from terminal `>python CryptXOR.py`
 -> _Even the Decrypted data will be written to a file for further use._  
 
 ## Note
-This program uses a simple XOR encryption algorithm, which has limitations and is not considered secure for real-world encryption needs. It is designed for educational purposes to understand encryption mechanism and analyze its weaknesses.
+This program uses a simple XOR encryption algorithm, which has limitations and is not considered secure for real-world encryption needs. It is designed for educational purposes, to understand encryption mechanisms and analyze its weaknesses.
