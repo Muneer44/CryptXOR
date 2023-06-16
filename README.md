@@ -1,7 +1,6 @@
 # CryptXOR 
 
-This 'CryptXOR - Encryptor-Decryptor' program is designed to encrypt custom messages or files, while the Decryptor program enables decryption using the corresponding encryption key. 
-The program utilizes manual XOR operations to perform encryption and decryption, instead of using advanced cryptography encryption algorithm modules, to understand and analyze the weaknesses and mechanism of basic cryptography.   
+This 'CryptXOR - Encryptor-Decryptor' program is designed to encrypt custom messages or files, while the Decryptor program enables decryption using the corresponding encryption key. This program utilizes manual XOR operations to perform encryption and decryption, instead of using advanced cryptography encryption algorithm modules, to understand and analyze the weaknesses and mechanisms of basic cryptography.   
 
 
 ## Disclaimer
